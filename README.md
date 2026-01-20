@@ -1,10 +1,7 @@
----
 
-````markdown
 # Relay Capacity Tier Classification  
 ### Benchmarking Classical Machine Learning Models vs a Simple Neural Network
 
----
 
 ## Overview
 
